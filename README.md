@@ -1,14 +1,16 @@
 # **Takım İsmi**
 
-Takım X
+Takım 49
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Selma Doğan: Product Owner
+- Seda Erdoğdu: Scrum Master
+- Eray Altay: Team Member/Developer
+- Serra İspiroğlu: Team Member/Developer
+- Sedat Kollama: Team Member/Developer
 
 ## Ürün İsmi
 
