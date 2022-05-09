@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Takım 49
+Team49
 
 # Ürün İle İlgili Bilgiler
 
