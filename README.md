@@ -32,7 +32,7 @@ Team49
 
 - First-person tarzı seven oyuncular
 - Running ve escape tarzı oyunları sevenler 
-- 7-65 yaş arası kullancılar
+- 7-65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
