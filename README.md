@@ -58,7 +58,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Slack _ Naime Uslu Güçlü, Seda Erdoğdu, Sedat Kollama, Selma Doğan, Serra İspiroğlu _ Oyun ve Uygulama Akademisi 9 05 2022 21_32_25](https://user-images.githubusercontent.com/104320725/167474812-00249e17-15b4-4dcf-8bbf-f0c20339794a.png)
 ![kaynaklar - Discord 9 05 2022 21_31_16](https://user-images.githubusercontent.com/104320725/167474815-2da5e030-3ec9-4e5e-81a5-10accf94cd20.png)
 ![Slack _ Naime Uslu Güçlü, Seda Erdoğdu, Sedat Kollama, Selma Doğan, Serra İspiroğlu _ Oyun ve Uygulama Akademisi 9 05 2022 21_32_31](https://user-images.githubusercontent.com/104320725/167474816-6be8054f-b49d-47fa-81d7-943eb8dd76d1.png)
-![kaynaklar - Discord 9 05 2022 21_31_06](https://user-images.githubusercontent.com/104320725/167474818-66f55abe-bc4f-4f56-ae93-ae7a8f5de638.png)
 ![Slack _ Naime Uslu Güçlü, Seda Erdoğdu, Sedat Kollama, Selma Doğan, Serra İspiroğlu _ Oyun ve Uygulama Akademisi 9 05 2022 21_32_46](https://user-images.githubusercontent.com/104320725/167474820-02612cb8-0e3a-4544-bb70-77a0a498ae2c.png)
 ![Slack _ Naime Uslu Güçlü, Seda Erdoğdu, Sedat Kollama, Selma Doğan, Serra İspiroğlu _ Oyun ve Uygulama Akademisi 9 05 2022 21_33_02](https://user-images.githubusercontent.com/104320725/167474821-a404f61a-4ff1-44d4-adce-5ab8d662b101.png)
 
