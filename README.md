@@ -18,11 +18,11 @@ Team49
 
 ## Ürün Açıklaması
 
-- First-person bakış açısına sahip bir parkur oyunu. Oyuncunun çevredeki engellerden kaçınmak için çeşitli power-up yetenekler kullanması gerekir. Go-Pro tarzı bir bakış açısı ile hızlı olmalı, duvarda yürümeli, kanca atmalı, ileri sıçramalı, zamanı yavaşlatmalı mekaniklere sahip. Aynı zamanda farklı level tasarımı teknikleri ve karakter skill-setleri ile yeniden oynanabilirliği artıran bir yapıya sahip.
+- First-person bakış açısına sahip bir parkur oyunu. Oyuncunun çevredeki engellerden kaçınmak için çeşitli power-up yetenekler kullanması gerekir. GoPro tarzı bir bakış açısı ile hızlı olmalı, duvarda yürümeli, kanca atmalı, ileri sıçramalı, zamanı yavaşlatmalı mekaniklere sahip. Aynı zamanda farklı level tasarımı teknikleri ve karakter skill-setleri ile yeniden oynanabilirliği artıran bir yapıya sahip.
 
 ## Ürün Özellikleri
 
-- Go-Pro tarzı bakış açısı
+- GoPro tarzı bakış açısı
 - Duvarda yürüme, kanca atma ve sallanma, esnek karakter kontrolü ile parkur dinamiği
 - Dikeyselliği artırmak için thruster yeteneği 
 - Zamanı ve fizikleri yavaşlatma yeteneği
