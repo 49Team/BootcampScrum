@@ -85,6 +85,42 @@ Sprint Review katılımcıları: ......
 
 # Sprint 2
 
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 200 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint 1 karar ve beyin fırtınası temelinde kurulduğu için 40 puanla sınırlandırılmış, Sprint 2 ve 3 80'er puan olmak üzere toplam 160 puana bölünmüştür. Önceliklerin daha yüksek olduğu storylere daha yüksek puan verilmiştir.
+- 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Maalesef takımdaki iletişim kopukluğu sebebiyle bu toplantılar gerçkeleştirilemedi. İkinci sprint bitmesine çok az zaman kala, diğer takım arkadaşlarından haber alınamadı. Takım içi son durum olarak, Developer Serra ve Sedat yeni bir proje yapmaya karar verdi. Haliyle ikinci sprint bitimine az kala hızlı bir şekilde proje çıkarmaya çalışıldı. Takım içi son durumla ilgili konuşma aşağıda paylaşılmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![InkedWhatsApp Image 2022-05-23 at 23 17 24_LI](https://user-images.githubusercontent.com/104320725/169900233-d2041772-b26a-4d89-bc14-796772ed8e77.jpg)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![miroboardupdate](https://user-images.githubusercontent.com/104320725/169902200-6b2999d2-8ea5-42f4-ba0e-198b4b0ebcec.png)
+
+
+- **Ürün Durumu**: 
+![snowboard](https://user-images.githubusercontent.com/104320725/169898393-22568810-4aff-4277-af0e-2c518599acdd.png)
+![karli_yol](https://user-images.githubusercontent.com/104320725/169898452-c8fd8455-0e98-4e39-a0dc-00e190da2791.png)
+![urun_goruntu](https://user-images.githubusercontent.com/104320725/169898478-82db60c2-64ef-4b0d-abce-d4522d3c346c.png)
+![urun_goruntu2](https://user-images.githubusercontent.com/104320725/169898500-39fac61d-f33c-4e77-932c-41b4a71aa1df.png)
+![karakterKontroller](https://user-images.githubusercontent.com/104320725/169898521-bba7b798-c0fc-4482-ba00-a2a9543d0aec.png)
+
+- **Sprint Review**: 
+Maalesef yeterli vakit bulunamadığından review gerçekleştirilemedi.  
+Sprint Review katılımcıları: ....
+
+- **Sprint Retrospective:**
+  - Low polygon dünya tasarımı için araştırmalar yapılmalı
+  - Backlog için projenin gidişatına göre güncellemeler yapılmalı ve tasklar kontrol edilmeli
+  - Sprint 2 sonlanana kadar karakterin animasyonlarını görebileceğimiz bir prototip oluşturulmalı
+
+-**Diğer Notlar**:
+- N/A
 
 ---
 
