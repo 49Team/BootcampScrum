@@ -14,24 +14,22 @@ Team49
 
 ## Ürün İsmi
 
---Project Atalanta--
+--November Game--
 
 ## Ürün Açıklaması
 
-- First-person bakış açısına sahip bir parkur oyunu. Oyuncunun çevredeki engellerden kaçınmak için çeşitli power-up yetenekler kullanması gerekir. GoPro tarzı bir bakış açısı ile hızlı olmalı, duvarda yürümeli, kanca atmalı, ileri sıçramalı, zamanı yavaşlatmalı mekaniklere sahip. Aynı zamanda farklı level tasarımı teknikleri ve karakter skill-setleri ile yeniden oynanabilirliği artıran bir yapıya sahip.
+- November, bir snowboard kayak oyunu.
 
 ## Ürün Özellikleri
 
-- GoPro tarzı bakış açısı
-- Duvarda yürüme, kanca atma ve sallanma, esnek karakter kontrolü ile parkur dinamiği
-- Dikeyselliği artırmak için thruster yeteneği 
-- Zamanı ve fizikleri yavaşlatma yeteneği
-- Yer çekimi manipülasyonu ile level dizaynını değiştirme kabiliyeti
+- Third Person
+- Snowboard kayak mekaniği
+- En kısa sürede pisti engellere takılmadan tamamlama
 
 ## Hedef Kitle
 
-- First-person tarzı seven oyuncular
-- Running ve escape tarzı oyunları sevenler 
+- Third-person oyun tarzını sevenler
+- Yarış oyunu sevenler
 - 7-65 yaş arası kullanıcılar
 
 ## Product Backlog URL
