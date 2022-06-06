@@ -39,7 +39,8 @@ Team49
 https://miro.com/app/board/uXjVO2540t0=/?share_link_id=381153708659
 - sprint 2
 https://miro.com/app/board/uXjVOy-t0eY=/?share_link_id=291851649482
-
+- sprint 3
+https://miro.com/app/board/uXjVOxRx83Q=/?share_link_id=630060454421
 ---
 
 # Sprint 1
@@ -128,5 +129,40 @@ Sprint Review katılımcıları: ....
 ---
 
 # Sprint 3
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 200 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 40 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint 1 karar ve beyin fırtınası temelinde kurulduğu için 40 puanla sınırlandırılmış, Sprint 2 ve 3 80'er puan olmak üzere toplam 160 puana bölünmüştür. Önceliklerin daha yüksek olduğu storylere daha yüksek puan verilmiştir.
+- 
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: 3.Sprint'te de takım içi iletişim sorunları sebebiyle ve kişisel işlerin yoğunluğu sebebiyle daily scrum toplantıları yapılamadı. 
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/104320725/172253292-347322fd-ef1a-4af6-96d3-caa53ce7ed47.PNG)
+
+
+- **Ürün Durumu**: 
+![image](https://user-images.githubusercontent.com/104320725/172253929-aa12bb6b-86d4-4107-bf73-b712a99485f6.png)
+![image](https://user-images.githubusercontent.com/104320725/172254107-b6ee2f58-1b66-4b93-8b62-4d2682c31e92.png)
+![image](https://user-images.githubusercontent.com/104320725/172254184-595077f4-5639-4c9c-a928-0d70f73502c3.png)
+![image](https://user-images.githubusercontent.com/104320725/172254319-cf220fea-a824-4a61-bbd1-a6c45dd2d491.png)
+![image](https://user-images.githubusercontent.com/104320725/172254496-06d563e7-cc56-4373-8f97-4e669d0b6902.png)
+
+- **Sprint Review**: 
+  
+Sprint Review katılımcıları: ....
+
+- **Sprint Retrospective:**
+  - Sprint 3 görevleri elimizden geldiğince tamamlandı.
+  - Sprint 3 bitiminde zamanı değerlendirme konusunda yeterli fırsat bulunamadı.
+  - Takım olma konusunda kişisel işlerin yoğunluğundan kaynaklı daily scrum toplantıları gerçekleştirilemedi.
+  - Oyun yapımındaki bilgi eksikliği sebebiyle proje istenilen şekilde gerçekleştirilemedi.
+
+-**Diğer Notlar**:
+- N/A
 ---
